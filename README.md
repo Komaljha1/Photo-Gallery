@@ -1,9 +1,9 @@
 # Photo-Gallery
 
 ### This project primarily consists of three pages, each of which has a unique feature: 
-> You can upload your memories; 
-> You can add it to a favourite page with a single tap; 
-> Techstack: JavaScript, ES6, Bootstrap, CSS, HTML
+ You can upload your memories
+ You can add it to a favourite page with a single tap; 
+ Techstack: JavaScript, ES6, Bootstrap, CSS, HTML
 
 ![image](https://user-images.githubusercontent.com/90145442/215268926-88fd959d-f434-42d2-b15a-71a660a33cbf.png)
 
