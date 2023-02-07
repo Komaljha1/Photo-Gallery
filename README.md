@@ -1,5 +1,6 @@
 # Photo-Gallery
-This project primarily consists of three pages, each of which has a unique feature: 
+
+###This project primarily consists of three pages, each of which has a unique feature: 
 > You can upload your memories; 
 > You can add it to a favourite page with a single tap; 
 > Techstack: JavaScript, ES6, Bootstrap, CSS, HTML
